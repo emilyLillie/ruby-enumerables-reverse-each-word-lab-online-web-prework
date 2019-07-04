@@ -7,7 +7,6 @@ original_array = string.split(" ")
   return_array.join(" ")
 end
 
-return reverse_each_word("Howdy y'all whatup?")
 
 def reverse_each_word(string)
 original_array = string.split(" ")
